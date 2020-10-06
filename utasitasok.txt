@@ -1,0 +1,4 @@
+git reset
+git diff
+git rm  
+git pull
