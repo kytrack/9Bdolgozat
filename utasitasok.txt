@@ -1,4 +1,4 @@
-git reset
+git checkout
 git diff
 git rm  
 git pull
