@@ -1,0 +1,16 @@
+cd/
+cd 9b
+md dolgozat
+cd dolgozat
+git clone https://github.com/kytrack/9Bdolgozat.git
+cd 9bdolgozat
+git config --global user.name kytrack
+git config --global user.email vkrisztianmgy@gmail.com
+copy con utasitasok.txt
+git add utasitasok.txt
+git commit -m "Vedrán krisztián"
+git push
+
+
+
+
